@@ -1,2 +1,2 @@
-# simple--python-project
+# simple-python-project
 in-class practice
